@@ -23,9 +23,8 @@ A computer is a machine that can be programmed to automatically carry out sequen
 ## Hardware:
 Computer hardware includes the physical parts of a computer, such as the central processing unit (CPU), random access memory (RAM), motherboard, computer data storage, graphics card, sound card, and computer case. It includes external devices such as a monitor, mouse, keyboard, and speakers.
 
-# Types of Hardware:-
+## Types of Hardware:-
 
----
 - Input Devices
 
 Input devices are those devices with the help of which the user interacts with the computer. Or, In other words, with the help of input devices, the user enters the data or information into the computer. This information or data is accepted by the input devices and converted into a computer-acceptable format, which is further sent to the computer system for processing.
@@ -50,7 +49,7 @@ This input goes to memory and the control unit gets instructions from memory. Th
 
 It is the main circuit board inside a computer and it contains most of the electronic components together. All the components of the computer are directly or indirectly connected to the motherboard. It includes RAM slots, controllers, system chipsets, etc. 
 
-3.RAM (Random Access Memory)
+3. RAM (Random Access Memory)
 
 It is also known as temporary or volatile memory. It holds the program and data, which are currently in process or processing. All the data is erased as soon as the computer is turned off or in case of a power failure. Data stored in this memory can be changed.
 
