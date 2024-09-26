@@ -60,12 +60,15 @@ b) DRAM (Dynamic Random Access Memory)
 DRAM consists of capacitors and the data is stored in the form of capacitors. Capacitors charge when data is 1 and don’t charge if data is 0. It requires refreshing circuits, as leakage of current in the capacitor can occur, so they need to be refreshed to the data. It is slower and has a higher access time. It is cheaper in comparison with SRAM. For e.g. Main memory.
 
 4. Video Graphics Array Port
+
 A video input commonly used on computer monitors is called a video graphics array (VGA) port. Verifying that there isn’t a loose connection, a damaged cable, or a broken display is one step in troubleshooting a VGA port. Compressed air can also be sprayed inside the VGA port by a computer expert to make sure it’s dust-free.
 
 5. Power Supply
+
 All of a computer system’s parts are powered by a power source. Typically, a power cord is used to connect a computer tower to an electrical outlet. By turning off the computer, unplugging and separating the power supply cord, or trying a different cord or socket, a technician can diagnose the power supply.
 
 6. Cooling Fan
+
 A computer’s system to prevent overheating uses cooling fans. To aid customers who use their computers intensively, such as when streaming video or playing games, many computers contain more than one cooling fan. If a user detects their computer overheating, a computer expert might need to repair the cooling fan. The blades may be examined for any damage and cleared of any foreign objects. A technician’s standard method of troubleshooting may involve replacing computer fans.
 
 
